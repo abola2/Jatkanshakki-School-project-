@@ -5,6 +5,7 @@ Windows Forms Tic Tac Toe school project
 **Features**
 
 Scoring system
+  
 You can choose gameboard size
 
 
