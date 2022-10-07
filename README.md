@@ -6,7 +6,7 @@ Windows Forms Tic Tac Toe school project
 
 - Scoring system
 - You can choose gameboard size
-- Easy to play (two play support)
+- Easy to play (two players support)
 
 
 
